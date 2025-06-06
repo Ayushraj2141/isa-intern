@@ -48,5 +48,9 @@ ek baar study ccds in a bit detail it seems fun tbh
 some sites to visit archival data -- VizieR , Simbad , NED , ESO ,  Hubble MAST , IPAC/ISRA , 2dFGRS
 
 in india GMRT near pune 
+chandra X-ray telescope data 
+Sdss - most detailed 3d maps online 
 
+sp much data how to console them ?? --> virtual observatory works on FITS format so everyone can access 
+its just like generalising it so to make it accesible to everyone and easy to use 
 
