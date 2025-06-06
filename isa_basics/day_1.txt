@@ -93,8 +93,7 @@ distance and age of any star could be eventually found -- many such cool stuffs 
 tool to do stuffs with table or talks to virtual observa is TOPCAT( Tool for operations and catalogues and tables )
 on https:/www.starlink.ac.in/topcat/ also one is aladin -- all based on java 
 
+external galaxies for galaxy photometry
+-- visuals || GALFIT is a software || Morphological classification
 
-
-
-
-
+**************************************************** END OF DAY ! ***********************************************************
