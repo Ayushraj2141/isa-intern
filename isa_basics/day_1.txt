@@ -1,0 +1,12 @@
+Data driven Astronomy
+what is data 
+survey data || in depth study of data 
+james web -- observatory mode data -- details about james web and data interpretation
+gaya telescope -- survey mode data | periodic data release
+survey mode always available 
+observatory -- some data is always available
+archival data -- available of data for everyone || best quality of data 
+propritery data -- only mine not  shared like we do research for sometime and after that it is available for everyone to work on 
+ESO-Vista / LSST -- what are they
+data centers -- jaha pr woh data ki research hoti haiii
+
