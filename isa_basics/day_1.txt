@@ -2,11 +2,51 @@ Data driven Astronomy
 what is data 
 survey data || in depth study of data 
 james web -- observatory mode data -- details about james web and data interpretation
-gaya telescope -- survey mode data | periodic data release
+gaia telescope -- survey mode data | periodic data release
 survey mode always available 
 observatory -- some data is always available
 archival data -- available of data for everyone || best quality of data 
 propritery data -- only mine not  shared like we do research for sometime and after that it is available for everyone to work on 
 ESO-Vista / LSST -- what are they
 data centers -- jaha pr woh data ki research hoti haiii
+python jupyter notebooks and mysql talks
+
+kind of data 
+-- images(just a multidimensional matrix with colors as element all the operations could be done just like a matrix )
+|| data cubes -- point sources(stars except sun) || extended object(galaxies - array of brightness)
+---- x-y array | pixels | rgb images based on the wavelenghts 
+-- catalogs - tabular data 
+-- spectra - intensuty vs wavelenth 
+-- time series - variable sources 
+-- polarization - magnetic fields 
+what are ccds and its working ?? how was image stores in these 
+-- colors : bayer filter what are these -- how is colored stoed in them ?? what are these filters 
+50 percent green and 25 percent blue and red each -- used in digital cameras? 
+different types of telescope and what are the difference in taking a photo of same object like what are the differences overall
+FITS(flexible image transport images) format to store Astronomy data specifically - contains all the things of image data intercepts etc etc 
+brightness could be done by scaling -- linear scaling or square scaling or root scaling -- ways of enhancing image to look good 
+
+spitzer telescope || xray chandra image and types of telescope ?? based on light spectra
+combined images 
+
+spectra are like fingerints || signature -- we get the spectra of object we could easily get the chemical combination
+like we studied in atomic structure || velocity of source using doplers shift || thermal broadning 
+why do telescopes has large lenses 
+
+data cubes -- 3d data || IFS(integral field spectroscopy)
+catalog data -- in form of rows and table generally using gaiya data 
+time series data -- like looking for an exoplanet data we could figure it out using variation in different fields in different time
+ds9 || (TOPCAT)  || programming languages -- python ,,, libraries , modules etc 
+meta data - descriptive information of data 
+
+astronomy archives -- hipparchus ||  tycho brahe data was used by kepler to derive his studies 
+
+earliest archival data set was from palomar sky survey -- in california USA 
+-- 2000 photographic plates which were later digitialised which kept improving with date 
+(citizen science projects ( SETI || GALAXY ZOO ) -- non scientists could contribute kinda like github )
+ek baar study ccds in a bit detail it seems fun tbh
+some sites to visit archival data -- VizieR , Simbad , NED , ESO ,  Hubble MAST , IPAC/ISRA , 2dFGRS
+
+in india GMRT near pune 
+
 
