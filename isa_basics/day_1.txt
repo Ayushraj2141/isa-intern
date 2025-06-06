@@ -63,5 +63,24 @@ Study of exoplanets
 (nasa -- kepler/tess)
 1. in 1995 , a swiss team from geneva University discovered a planet , 51 Pegasi b - 48 years from earth,
    basically was first exoplanet orbitting a sun like star for which they got half of noble prize for physics in 2019 
+methods 
+i. Radial velocity  
+ii. microlensing
+iii. direct imaging
+iv. Transit photometry 
+--- if a planet comes in front of a star there is a small dip in the intensity of light 
+but to be noticed 
+- there is 1 percent dip
+- there should be 3 transit lines to confirm this star
+- depends on size of planet , number of planets , orbital period etc etc
 
+The kepler mission (2009 mission ) - to see one part of the sky like about 0.25 of observable universe . 
+give time series of all the planets in these particular region , region was cygnus and lyra constellation in our galaxy 
+these data can be downloaded 
+there were some problems 
+it was updated by k2 mission 
+
+other mission --  TESS(transiting exoplanet survey satellites , was 400x times  the kepler missions )
+-- light curve analysis , what could be found - orbital period , radius of source , mass of exoplanet , density -- could be found its 
+gas giant , rocky or type of material from which that planet is made of 
 
