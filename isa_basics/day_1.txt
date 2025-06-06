@@ -84,3 +84,17 @@ other mission --  TESS(transiting exoplanet survey satellites , was 400x times  
 -- light curve analysis , what could be found - orbital period , radius of source , mass of exoplanet , density -- could be found its 
 gas giant , rocky or type of material from which that planet is made of 
 
+Gaia data -- Globulaer clusters -- apperture photometry - make a hole and see hoe much light is coming out 
+|| real brightness of star  = brightness of star - brightness of star 
+
+color magnitude diagrams - to study class clusters - plot HR diagrams - color magnitude diagrams x - one || y - difference between 2
+distance and age of any star could be eventually found -- many such cool stuffs could be done 
+
+tool to do stuffs with table or talks to virtual observa is TOPCAT( Tool for operations and catalogues and tables )
+on https:/www.starlink.ac.in/topcat/ also one is aladin -- all based on java 
+
+
+
+
+
+
