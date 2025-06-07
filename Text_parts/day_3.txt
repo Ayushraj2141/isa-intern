@@ -6,4 +6,8 @@ calculations could be done
  RA and Dec in Astronomy 
  -- RA is the celestial equivalent of longitude. || The east-west position of an object on the sky.
  -- Dec is the celestial equivalent of latitude. || The north-south position of an object relative to the celestial equator.
- 
+ icrs and galactic coordinates -- read about it once 
+
+
+ FITS file -- Flexible Image Transport System 
+ astronomers use this format to save and analyse data
