@@ -1,0 +1,13 @@
+We studies about python 
+bbasic operations
+loops 
+control flow
+boolean 
+string
+list 
+dictonary 
+tuples
+their various predefined functions 
+numpy library -- for playing with numbered arrays 
+matplotlib library -- for plotting graphs , histograms , pie charts etc 
+these libraries and working once reaad it from documentation for better understanding
