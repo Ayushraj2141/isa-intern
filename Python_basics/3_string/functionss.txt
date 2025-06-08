@@ -1,0 +1,11 @@
+len() -- lenghth of string
+endswith / starts with -- check
+capitalize 
+uppercase / lowercase 
+title -- capital first 
+find -- finds that word 
+replace(old,new)
+\n -- new line mai manipulate agr multi line string ''' iska use krke nhi krna hai toh 
+\t -- tab jinti space chor deta haii
+\"string"\ -- iske help se string likh skte hai print statement k andr
+\\ -- agr blacklash hi use krna hai tohh 
