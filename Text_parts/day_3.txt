@@ -11,3 +11,9 @@ calculations could be done
 
  FITS file -- Flexible Image Transport System 
  astronomers use this format to save and analyse data
+ working and operation of fits file 
+
+ plot graphs and all
+ http://wiki.scipy.org/Cookbook/Matplotlib/Show_colormaps for more colormaps 
+
+
