@@ -1,0 +1,1 @@
+1. Data visulaization via graphs using python -- its harder to work with numbers but easier with the help of graphs 
