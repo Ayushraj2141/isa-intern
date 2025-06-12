@@ -1,1 +1,23 @@
 1. Data visulaization via graphs using python -- its harder to work with numbers but easier with the help of graphs 
+data analysis -- pandas and numpy
+data visulaization -- matplotlib // ggplot / seaborn / plotly etc
+various methods -- graph , maps ,slopes , histograms , piecharts etc
+
+matplotlib -- data in 2d or 3d graphs 
+-- Linear plot - continious
+-- scatter plot - dotted
+-- bar plot - single.multiple
+-- stem plot - district plotting
+-- step plot - step function 
+-- histogram plot - combined bar graph
+-- box plot - share market plot etc 
+-- pie plot - pie chart - percentage based 
+-- fill between / area plot - upper limit and lower limit differences -- fluctuations
+
+# installation -- pip install matplotlib
+# import 
+-- import matplotlib.pyplot as plot
+-- from matplotlib import pyplot as plt
+
+
+# jupyter notebook
