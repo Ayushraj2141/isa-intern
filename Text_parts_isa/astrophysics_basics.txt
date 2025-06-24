@@ -32,7 +32,7 @@ other location some part never rise and set if we are on poles -- there is chunk
 of sky which we would never see if we don't travel because northern hemisphere
 people would not see southern hemisphere stars
 
--------------------------------END------------------------------------------
+---------------------------------------------------------END--------------------------------------------------------------------
 
 Day - 2
 latitude and longitude for a star 
@@ -55,8 +55,24 @@ list of major constellations
 ecliptic cast -- zodiac about this line -- nakshatras all have some degrees check that 
 we could find soo many things using constellations -- astrology all came from this 
 precessing -- earth conical rotation -- effect of moon -- two body system 
-relative positionioning of earth and sun is changing 18000 later vega will be pole star which now is polarasis -- for a long time there will be no pole start 
+relative positionioning of earth and sun is changing 18000 later vega will be pole star which now is polarasis -- 
+for a long time there will be no pole start 
+A bit of history on basics of astronomy 
+the subject about outerspace in detail is not so old
+-- Standard Candles - measuring intensity of light luminiuosity 
+cosmological distance ladder -- from the least to the max 
+earth measurnments - some type of telescopes which measures the angles , lunar laser ranging , retro reflector arrays , 
+we could find how far away the moon is 
+for venus -- radar echo measurnments because we can't land anything there -- mathematically using trigo , 
+circles and geometry concepts
+kepler's third law for measuring distances?
+stellar parallax - its used by our eyes to get estimate of distance too, first we know to measure how sun is measured 
+concepts like projection and solid angles are used to measure 
+1 parsec is distance at which a star has a parallax of 1 arcsecond 
+major distance measuring units is parsec , light year and astronomical unit 
+parallax from space -- the hipparcos satellite distance in parsec is inverse of arcsec , accuracy is not very good because more 
+repetitions give better accuracy , otherwise the answer would be blurred 
+GAIA - an european space mission since 2013 at L2 -- know its working like how it measures the parallax 
 
-
-
+---------------------------------------------------------END--------------------------------------------------------------------
 
