@@ -73,6 +73,45 @@ major distance measuring units is parsec , light year and astronomical unit
 parallax from space -- the hipparcos satellite distance in parsec is inverse of arcsec , accuracy is not very good because more 
 repetitions give better accuracy , otherwise the answer would be blurred 
 GAIA - an european space mission since 2013 at L2 -- know its working like how it measures the parallax 
+how was the galaxy , solar sytem formed and how like from a nebula?
+explanation about calenders -- the indian and the common one like how we see the calenders based on positions 
 
 ---------------------------------------------------------END--------------------------------------------------------------------
 
+naming of stars -- how are stars actually measured and named , importance of parallax 
+learn in detail about Hipparcos -- there is one more tycho , from ground the image is blurred actually ,
+how is the motion of the stars , planets and the galaxies 
+How Gaia measures the distance 
+
+Position of us in our universe 
+Main sequence stars , spectral type vs log of luminosity -- spectroscopic parallax , every body emits a specific spectrm , Standard Candles
+What is an HR diagram -- Hipparcous graph analysis
+Stars twunkle due to variable refraction
+each layer of air has different pressure density temperature and hence refractive index etc etc
+galaxies , shape , size , sun is not middle of milky way , our position , arms of galaxies , how we took our own image 
+-- milkyway or the aakash gangaa 
+relatives of milkyway , hubbles telescope , hubbles constant and much more 
+sun is travelling at 220 km/s around a radius of 8 kilo parsec , how was it measured find this also?
+the local group , our neighbours , the cosmic web , magellanic cloud , doradus (what?) , dwarfs 
+movement of our galaxy , mege of galaxy? 
+The future of MW-M31 , starbust galaxy , learn more about galaxies 
+can we cahange trajectories of meteors? 
+difference between meteors and asteroids?
+black hole in middle and rotation of galaxies , sagatarrius and angular momentum and other physics involved in Astronomy
+
+
+---------------------------------------------------------END--------------------------------------------------------------------
+
+keplers law ambiguity , should decrease right? -- comes out its not true 
+we don't know the edge of the galaxy -- rise of dark matter -- what the universe is made of
+but what is dark matter? -- know the fundamentals not just electron , proton but in more depth -- what are bariyons how were they formed 
+the big bang theory how are elements are formed -- leptons , neutrinos 
+how much matter is there on our galaxy 
+a bit about famous scientists -- the brief theory of time -- special relativity 
+closed universe -- flat universe and open universe 
+-- henrietta leavitt - cepheid variables and photographic plates 
+-- edwin hubble and milton humanson -- read about them a bit 
+barcode spectrum of universe -- absorbtion and emission lines -- every element has a unique fingerprint -- we could overlap and
+find that -- hubble's law and space time fabric
+the mass budget of universe and the expanding universe -- wattage level -- the mass energy of universe -- dark matter , ordinary matter 
+and dark energy 
